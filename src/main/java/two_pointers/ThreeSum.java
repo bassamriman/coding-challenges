@@ -1,4 +1,4 @@
-package twopointers;
+package two_pointers;
 
 import common.Triple;
 import common.Tuple;
