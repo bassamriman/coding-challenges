@@ -1,7 +1,5 @@
 package dynamic_programming;
 
-import java.util.Arrays;
-
 public class MaximumSubarray {
     final private int MIN_INT = -2147483646;
     private int CACHE_SIZE;
